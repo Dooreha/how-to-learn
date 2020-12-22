@@ -135,7 +135,6 @@
 }
 
 .section-title {
-  margin: 0;
   width: 60%;
   margin: 0 auto 0 auto;
   text-align: center;
@@ -145,7 +144,6 @@
 }
 
 .section-subtitle {
-  margin: 0;
   width: 60%;
   margin: 20px auto 0 auto;
   text-align: center;
@@ -194,7 +192,6 @@
 }
 
 .feynman__title {
-  margin: 0;
   width: 648px;
   position: relative;
   margin: 0 auto 0 auto;
